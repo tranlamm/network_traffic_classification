@@ -1,0 +1,1 @@
+run file "NTC.ipynb" on Google Colab
